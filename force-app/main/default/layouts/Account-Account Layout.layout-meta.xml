@@ -156,47 +156,37 @@
         <style>CustomLinks</style>
     </layoutSections>
     <quickActionList>
-      <!--  <quickActionListItems>
-            <quickActionName>FeedItem.TextPost</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>FeedItem.ContentPost</quickActionName>
-        </quickActionListItems> -->
         <quickActionListItems>
             <quickActionName>NewTask</quickActionName>
+            <types>QuickAction</types>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>NewContact</quickActionName>
+            <types>QuickAction</types>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>NewCase</quickActionName>
+            <types>QuickAction</types>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>LogACall</quickActionName>
+            <types>QuickAction</types>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>NewNote</quickActionName>
+            <types>QuickAction</types>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>NewOpportunity</quickActionName>
+            <types>QuickAction</types>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>NewEvent</quickActionName>
+            <types>QuickAction</types>
         </quickActionListItems>
-<!--   <quickActionListItems>
-            <quickActionName>FeedItem.RypplePost</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>FeedItem.LinkPost</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>FeedItem.PollPost</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>FeedItem.QuestionPost</quickActionName>
-        </quickActionListItems> -->
         <quickActionListItems>
             <quickActionName>SendEmail</quickActionName>
+            <types>QuickAction</types>
         </quickActionListItems>
     </quickActionList>
     <relatedLists>
