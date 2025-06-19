@@ -155,8 +155,8 @@
         <layoutColumns/>
         <style>CustomLinks</style>
     </layoutSections>
-  <!--  <quickActionList>
-        <quickActionListItems>
+    <quickActionList>
+      <!--  <quickActionListItems>
             <quickActionName>FeedItem.TextPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
